@@ -29,4 +29,4 @@ employee, including the CEO, and the CEO has no specified manager.
 
 ## Repository
 
-- Here is the link to the code repository: 
+- Here is the link to the code repository: [link to repository](https://github.com/artursmtest/code_exercise_106)
